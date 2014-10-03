@@ -3,3 +3,4 @@
 .settings/
 pom.xml.versionsBackup
 target/`
+test-output/
